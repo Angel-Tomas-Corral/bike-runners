@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "runner1",
+      "password": "123456",
+      "role": "bike_runner"
+    },
+    {
+      "id": 2,
+      "username": "cliente1",
+      "password": "123456",
+      "role": "client"
+    },
+    {
+      "username": "angel",
+      "password": "miku5",
+      "role": "bike_runner",
+      "id": 3
+    },
+    {
+      "username": "pepe22",
+      "password": "12345",
+      "role": "bike_runner",
+      "id": 4
+    }
+  ]
+}
